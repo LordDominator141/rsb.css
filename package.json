@@ -1,0 +1,37 @@
+{
+  "name": "rsb.css",
+  "version": "1.0.0",
+  "description": "reset style browser",
+  "main": "rsb.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordDominator141/rsb.css.git"
+  },
+  "keywords": [
+    "css-style",
+    "css",
+    "reset-css",
+    "reset",
+    "reset",
+    "style",
+    "reset",
+    "browser",
+    "style",
+    "reset",
+    "css"
+  ],
+  "author": "Lord Dominator",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LordDominator141/rsb.css/issues"
+  },
+  "homepage": "https://github.com/LordDominator141/rsb.css#readme",
+  "files": [
+    "rsb.css",
+    "rsb.min.css",
+    "rsb.sass"
+  ]
+}
