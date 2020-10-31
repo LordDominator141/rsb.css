@@ -20,7 +20,12 @@
 ```sh
 npm i rsb.css
 ```
-
+## Install Html code
+```sh
+<head>
+<link rel="stylesheet" href="/node_modules/rsb.css/rsb.min.css">
+</head>
+```
 Or clone the repo.
 
 ## Copyright and license
