@@ -2,7 +2,7 @@
 [![npm](https://img.shields.io/bundlephobia/min/rsb.css?style=for-the-badge)](https://www.npmjs.com/package/rsb.css)
 ![node-current](https://img.shields.io/node/v/rsb.css?color=green&label=Downloads&logo=rsb)
  
- Modern CSS reset all defolts tags :
+ CSS reset all style:
 
 * **resets the font sizes** 
 * **resets the block margins**
@@ -15,19 +15,18 @@
 
 ## Download/Install
 
-[Download the latest version](https://github.com/LordDominator141/rsb.css)
-
 ```sh
 npm i rsb.css
 ```
+Or clone the repo.
+
+[Download the latest version](https://github.com/LordDominator141/rsb.css)
 ## Install Html code
 ```sh
 <head>
 <link rel="stylesheet" href="/node_modules/rsb.css/rsb.min.css">
 </head>
 ```
-Or clone the repo.
-
 ## Copyright and license
 
 Code copyright 2020 Lord Dominator. Code released under [the MIT license](https://github.com/LordDominator141/rsb.css/blob/main/LICENSE).
