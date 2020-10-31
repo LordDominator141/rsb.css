@@ -1,2 +1,2 @@
-# RSB - reset style browser 
+# RSB - Reset Style Browser 
 
