@@ -1,2 +1,2 @@
-# rsbs
-reset all browser style css
+# RSB - reset style browser 
+
