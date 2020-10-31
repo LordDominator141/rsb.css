@@ -1,6 +1,6 @@
 {
   "name": "rsb.css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "reset style browser",
   "main": "rsb.css",
   "scripts": {
@@ -32,6 +32,6 @@
   "files": [
     "rsb.css",
     "rsb.min.css",
-    "rsb.sass"
+    "rsb.scss"
   ]
 }

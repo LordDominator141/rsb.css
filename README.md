@@ -1,8 +1,7 @@
 # RSB.CSS - Reset Style Browser 
 [![npm](https://img.shields.io/bundlephobia/min/rsb.css?style=for-the-badge)](https://www.npmjs.com/package/rsb.css)
-![node-current](https://img.shields.io/node/v/rsb.css?color=green&label=Downloads&logo=rsb)
  
- CSS reset all style:
+ CSS reset all standart browser style:
 
 * **resets the font sizes** 
 * **resets the block margins**
@@ -24,7 +23,7 @@ Or clone the repo.
 ## Install Html code
 ```sh
 <head>
-<link rel="stylesheet" href="/node_modules/rsb.css/rsb.min.css">
+<link rel="stylesheet" href="/path/to/rsb.css/rsb.min.css">
 </head>
 ```
 ## Copyright and license
