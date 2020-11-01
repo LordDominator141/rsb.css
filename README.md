@@ -3,19 +3,23 @@
  
  CSS reset all standart browser style:
 
-* **resets the font sizes** 
-* **resets the block margins**
-* **resets tables**
-* **preserves the inline paddings** 
-* **sets the border-box box sizing**
-* **sets responsive media elements**
-* **resetting standard pseudo elements**
-* **resetting standard inputs**
+* **Resets the font sizes** 
+* **Resets the block margins**
+* **Resets tables**
+* **Preserves the inline paddings** 
+* **Sets the border-box box sizing**
+* **Sets responsive media elements**
+* **Resetting standard pseudo elements**
+* **Resetting standard inputs**
+* **Resetting all standard browser tags**
 
 ## Download/Install
 
 ```sh
 npm i rsb.css
+```
+```sh
+npm i git+https://github.com/LordDominator141/rsb.css.git
 ```
 Or clone the repo.
 

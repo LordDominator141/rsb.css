@@ -1,14 +1,16 @@
 {
   "name": "rsb.css",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "reset style browser",
   "main": "rsb.css",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/LordDominator141" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LordDominator141/rsb.css.git"
+    "url": "git+https://github.com/LordDominator141/rsb.css.git",
+    "directory": "packages/name"
   },
   "keywords": [
     "css-style",
@@ -33,5 +35,5 @@
     "rsb.css",
     "rsb.min.css",
     "rsb.scss"
-  ]
+  ] 
 }
